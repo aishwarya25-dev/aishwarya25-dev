@@ -9,6 +9,8 @@
 
 ### ๑ AI/ML Student
 
+![Profileviews](https://komarev.com/ghpvc/?username=aishwarya25-dev&color=yellow)
+
 ---
 
 ## 🌼 <i>About Me</i> :
@@ -47,7 +49,7 @@ I'm a **Computer Science (AI/MI) student** passionate about building software an
 
 <p>
 <strong>LinkdeIn :</strong>
-<a href="https://linkedin.com/in/YOUR_USERNAME">Aishwarya Jambhale</a><br>
+<a href="https://www.linkedin.com/in/aishwarya-jambhale-12941a381?utm_source=share_via&utm_content=profile&utm_medium=member_android">Aishwarya Jambhale</a><br>
 <strong>Email :</strong>
 <a href="mailto:aishwaryaj2510@gmail.com">aishwaryaj2510@gmail.com</a>
 </p>
