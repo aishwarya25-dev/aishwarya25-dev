@@ -9,13 +9,13 @@
 
 ### ๑ AI/ML Student
 
-![Profileviews](https://komarev.com/ghpvc/?username=aishwarya25-dev&color=yellow)
+![Profileviews](https://komarev.com/ghpvc/?username=aishwarya25-dev&color=green)
 
 ---
 
 ## 🌼 <i>About Me</i> :
 
-I'm a **Computer Science (AI/MI) student** passionate about building software and solving real-world problems through code.<br>
+I'm a **Computer Science (AI/ML) student** passionate about building software and solving real-world problems through code.<br>
 **Passionate about learning and creating impactful solutions.**
 
 ### ✧ <i>Currently Learning</i> :
