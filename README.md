@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aishwarya25-dev/aishwarya25-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr></tr>
 
-Here are some ideas to get you started:
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <i>**I'm Aishwarya**</i> ✿
+
+### ๑ AI/ML Student
+
+---
+
+## 🌼 <i>About Me</i> :
+
+I'm a **Computer Science (AI/MI) student** passionate about building software and solving real-world problems through code.<br>
+**Passionate about learning and creating impactful solutions.**
+
+### ✧ <i>Currently Learning</i> :
+- Data Structures & Algorithms
+- Advanced Java and Python
+- Database Management Systems
+- Robiotics
+- Artificial Intelligence & Machine Learning
+- 
+## ☆ <i>Tech Stack</i> :
+
+### Languages :
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+### Tools :
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+
+
+## ☆ <i>GitHub Stats</i> :
+![](https://github-readme-stats.shion.dev/api?username=aishwarya25-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aishwarya25-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aishwarya25-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+
+## 🌐 Connect with me :
+
+<p>
+<strong>LinkdeIn :</strong>
+<a href="https://linkedin.com/in/YOUR_USERNAME">Aishwarya Jambhale</a><br>
+<strong>Email :</strong>
+<a href="mailto:aishwaryaj2510@gmail.com">aishwaryaj2510@gmail.com</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+</div>
+
