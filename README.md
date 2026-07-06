@@ -7,9 +7,8 @@
 
 # <i>**I'm Aishwarya**</i> ✿
 
-### ๑ AI/ML Student
 
-![Profileviews](https://komarev.com/ghpvc/?username=aishwarya25-dev&color=green)
+### ๑ AI/ML Student
 
 ---
 
