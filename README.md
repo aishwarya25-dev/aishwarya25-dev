@@ -43,15 +43,11 @@ I'm a **Computer Science (AI/ML) student** passionate about building software an
 
 ---
 
-## ☆ <i>GitHub Stats</i> :
-
-![](https://streak-stats.demolab.com/?user=aishwarya25-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aishwarya25-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ---
-
 ###  Always open to learning, collaborating, and building something new. Feel free to connect ♡
+
 ## 🌐 Connect with me :
 
 <p>
